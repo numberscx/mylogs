@@ -2,9 +2,7 @@ Record my logs as a back-end engineer
 
 Navigations:
 
-#01 
-
-[theGreatPromotion]: ./TheGreatPromotion.md	"the great solution"
+#01 [the great promotion](./TheGreatPromotion.md)
 
 
 
