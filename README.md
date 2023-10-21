@@ -4,7 +4,7 @@ Navigations:
 
 #01 
 
-[theGreatPromotion]: ./TheGreatPromotion.md
+[theGreatPromotion]: ./TheGreatPromotion.md	"the great solution"
 
 
 
