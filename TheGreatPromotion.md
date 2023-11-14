@@ -1,4 +1,4 @@
-# the solutions of The Great Promotion
+# 大促方案整理
 
 ## 0 introduction
 
